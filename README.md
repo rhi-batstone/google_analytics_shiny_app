@@ -1,4 +1,4 @@
-# CodeClan Aggregate User Data by Location
+# Wesbite Regional Performance
 
 ## Authors
 Rhi Batstone, Miles Drake, and Jonathan "Johnny" Lau.
