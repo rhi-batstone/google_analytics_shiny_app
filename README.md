@@ -1,4 +1,4 @@
-# CodeClan Aggregate User Data by Location
+# Wesbite Regional Performance
 
 ## Authors
 Rhi Batstone, Miles Drake, and Jonathan "Johnny" Lau.
@@ -34,6 +34,9 @@ In an attempt to not overcomplicate the dashboard and ensure we answered the bri
 - Top right plot shows the number of sessions daily per catchment area within the user defined filters
 - Bottom left displays numeric data relating to the cities in the user defined ranges
 - Bottom right shows the total sessions for the chosen catchment areas in the defined date range and catchment radius
+
+#### Defining the catchments
+Pythagoras? 🤷🏼‍♀️
 
 ![](/www/screenshot_overview.png)
 
