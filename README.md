@@ -30,13 +30,12 @@ The date range in this public dashboard is limited to a year to match the dates 
 ### Main Page Overview
 In an attempt to not overcomplicate the dashboard and ensure we answered the brief the dashboard was limited to one interactive tab. The user can select a desired date range and see the geographical location of the users who have booked an event. 
 
-![](/www/.jpg)
-
+![](/www/screenshot_debug_menu.png)
 
 ### Debugging Tab
 This tab shos the number of session and conversion of events booking depending on the channel used to access the website or type of social network. 
 
-![](/www/.jpg)
+![](/www/screenshot_main_page.png)
 
 
 ## Authors
