@@ -1,5 +1,8 @@
 # CodeClan Aggregate User Data by Location
 
+## Authors
+Rhi Batstone, Miles Drake, and Jonathan "Johnny" Lau.
+
 ## Project Brief
 ### Regional Performance
 
@@ -38,7 +41,4 @@ In an attempt to not overcomplicate the dashboard and ensure we answered the bri
 This tab shows the raw data which changes in reaction to the user inputs. Kept in incase the user wants to understand the changes behind the scene or to debug.
 
 ![](/www/screenshot_debug_menu.png)
-
-## Authors
-Rhi Batstone, Miles Drake, and Jonathan "Johnny" Lau.
 
