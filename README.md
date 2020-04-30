@@ -28,15 +28,20 @@ The date range in this public dashboard is limited to a year to match the dates 
 
 ## Dashboard
 ### Main Page Overview
-In an attempt to not overcomplicate the dashboard and ensure we answered the brief the dashboard was limited to one interactive tab. The user can select a desired date range and see the geographical location of the users who have booked an event. 
+In an attempt to not overcomplicate the dashboard and ensure we answered the brief the dashboard was limited to one interactive tab. The user can select a desired date range, set a circular catchment area for Edinburgh, Glasgow and Inverness in kilometers and select between the catchment areas displayed on the plots. 
 
-![](/www/screenshot_debug_menu.png)
-
-### Debugging Tab
-This tab shos the number of session and conversion of events booking depending on the channel used to access the website or type of social network. 
+- The top left plot shows a visual map of the user defined catchment areas
+- Top right plot shows the number of sessions daily per catchment area within the user defined filters
+- Bottom left displays numeric data relating to the cities in the user defined ranges
+- Bottom right shows the total sessions for the chosen catchment areas in the defined date range and catchment radius
 
 ![](/www/screenshot_main_page.png)
 
+### Raw Data Tab
+This tab shows the raw data which changes in reaction to the user inputs. Kept in incase the user wants to understand the changes behind the scene or to debug.
+
+![](/www/screenshot_debug_menu.png)
 
 ## Authors
 Rhi Batstone, Miles Drake, and Jonathan "Johnny" Lau.
+
