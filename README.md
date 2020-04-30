@@ -35,10 +35,10 @@ In an attempt to not overcomplicate the dashboard and ensure we answered the bri
 - Bottom left displays numeric data relating to the cities in the user defined ranges
 - Bottom right shows the total sessions for the chosen catchment areas in the defined date range and catchment radius
 
-![](/www/screenshot_main_page.png)
+![](/www/screenshot_overview.png)
 
 ### Raw Data Tab
 This tab shows the raw data which changes in reaction to the user inputs. Kept in incase the user wants to understand the changes behind the scene or to debug.
 
-![](/www/screenshot_debug_menu.png)
+![](/www/screenshot_rawdata_menu.png)
 
