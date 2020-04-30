@@ -16,7 +16,7 @@ ui <- fixedPage(
       ),
       style = "position: relative; top: -10px"
     ),
-    windowTitle = "CodeClan Location Data",
+    windowTitle = "Website Location Data",
     
     # Parent sections organised by tab
     # Overview parent tab
