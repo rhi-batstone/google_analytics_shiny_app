@@ -216,10 +216,10 @@ ui <- fixedPage(
     if(debug_section_enabled == 1){
       navbarMenu( # Keep the leading comma
         
-        title = "Debug",
+        title = "Raw Data",
         
         # Section header
-        "Debug",
+        "User Filtered Data",
         
         tabPanel(
           title = "User-selected control values",
