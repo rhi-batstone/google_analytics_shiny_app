@@ -11,7 +11,7 @@ ui <- fixedPage(
     # Displayed to the left of the navigation bar
     title = div(
       img(
-        src = "codeclan-logo.png",
+        src = "light.svg",
         height = "40px"
       ),
       style = "position: relative; top: -10px"
