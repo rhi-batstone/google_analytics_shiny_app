@@ -4,13 +4,13 @@
 ### Regional Performance
 
 The client wanted the ability to analyse website performance as Google Analystics is too restrictive.
-- Limited or no ability to compare site performance two or three locations in a single view
-- Overview of a single city’s performance is complicated because of Google Analytics’ use of multiple small towns around a given city
-- We would like to be able to compare high-level site performance in a defined Edinburgh and a Glasgow catchment, and also attach high level targets per catchment, including Inverness
+- Limited or no ability to compare site performance between their three locations
+- Overview of a single city’s performance including surrounding towns
+- Compare site performance in a defined Edinburgh, Glasgow and Inverness catchment
 
 ## Tools
 
-The data was pulled from the google_analytics API and then synthesized for demonstration purposes. 
+The data was called from the google_analytics API.
 
 The dashboard was created shinydashboard with the following libraries: 
 - library(leaflet)
@@ -19,12 +19,9 @@ The dashboard was created shinydashboard with the following libraries:
 - library(tidyverse)
 - library(tsibble)
 
-## Creating synthetic data
-In order to demonstrate this dashboard publicly, the data from Google Analytics was synthesised. 
+## Synthesising the data
+For public demonstrations of this dashboard the data was synthesised in R using library(synthpop). 
 Calls were made to the GoogleAnalytics API to extract the metrics and dimension of interest. The output data was put through the synthpop library in R.
-
-The date range in this public dashboard is limited to a year to match the dates of the synthetic data.
-
 
 ## Dashboard
 ### Overview Tab
