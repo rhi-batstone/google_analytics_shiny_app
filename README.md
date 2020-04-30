@@ -27,7 +27,7 @@ The date range in this public dashboard is limited to a year to match the dates 
 
 
 ## Dashboard
-### Main Page Overview
+### Overview Tab
 In an attempt to not overcomplicate the dashboard and ensure we answered the brief the dashboard was limited to one interactive tab. The user can select a desired date range, set a circular catchment area for Edinburgh, Glasgow and Inverness in kilometers and select between the catchment areas displayed on the plots. 
 
 - The top left plot shows a visual map of the user defined catchment areas
