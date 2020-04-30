@@ -13,14 +13,14 @@ The client wanted the ability to analyse website performance as Google Analystic
 The data was called from the google_analytics API.
 
 The dashboard was created shinydashboard with the following libraries: 
-- library(leaflet)
-- library(lubridate)
-- library(shiny)
-- library(tidyverse)
-- library(tsibble)
+- `library(leaflet)`
+- `library(lubridate)`
+- `library(shiny)`
+- `library(tidyverse)`
+- `library(tsibble)`
 
 ## Synthesising the data
-For public demonstrations of this dashboard the data was synthesised in R using library(synthpop). 
+For public demonstrations of this dashboard the data was synthesised in R using `library(synthpop)`. 
 Calls were made to the GoogleAnalytics API to extract the metrics and dimension of interest. The output data was put through the synthpop library in R.
 
 ## Dashboard
