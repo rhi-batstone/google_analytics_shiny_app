@@ -1,0 +1,10 @@
+name: google_analytics_shiny_app
+title:
+username:
+account: rhi-batstone
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2477589
+bundleId: 3291756
+url: https://rhi-batstone.shinyapps.io/google_analytics_shiny_app/
+when: 1592571283.39603
